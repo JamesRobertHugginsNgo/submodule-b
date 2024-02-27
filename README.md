@@ -1,3 +1,3 @@
 # submodule-b
 
-This is a test
+This is on develop branch.
